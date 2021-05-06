@@ -26,7 +26,6 @@ int main() {
 
     //imshow for showing the image.
     imshow("Image", img);
-
     imshow("Image", imgDil);
         
 
