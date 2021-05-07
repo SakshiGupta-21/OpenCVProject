@@ -11,7 +11,7 @@ using namespace std;
 
 int main() {
 
-    string path = "Resources/sakshi.jpg";
+    string path = "Resources/lambo.png";
     
     //Mat is a matrix data type introduced by opencv to handle images.
     Mat img = imread(path);
