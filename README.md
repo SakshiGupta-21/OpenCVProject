@@ -1,8 +1,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CHAPTERS:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                    
 
-Chapter	Description
 1	Read Image Video-Webcam		  -->           Read images, videos and webcam.
 
 2	OpenCV Basic Functions	    -->           Basic opencv functions like Gray Scale, Blur, Edge Detection, Dilation and Erosion.
@@ -23,7 +23,7 @@ Chapter	Description
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 PROJECTS:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project	Description
+
 1	Virtual Paint	                -->      	Detecting Color and using colored marker to draw virtually.
 
 2	Documnet Scanner              -->      	In this project, I created a simple document scanner using opencv and run that in real time.
