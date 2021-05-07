@@ -24,9 +24,9 @@ CHAPTERS:
 PROJECTS:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1	Virtual Paint	                -->      	Detecting Color and using colored marker to draw virtually.
+1	Virtual Painter	                -->      	Detecting Color and using colored marker to draw virtually.
 
-2	Documnet Scanner              -->      	In this project, I created a simple document scanner using opencv and run that in real time.
+2	Document Scanner              -->      	In this project, I created a simple document scanner using opencv and run that in real time.
 
 3	Number Plate Detector         -->      	In this project I created a number plates detector on cars in realtime and save them with a click of a button.
 
